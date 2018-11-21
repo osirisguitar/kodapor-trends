@@ -1,0 +1,31 @@
+{
+  "name": "kodapor-trends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osirisguitar/kodapor-trends.git"
+  },
+  "author": "Anders Norrback Bornholm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osirisguitar/kodapor-trends/issues"
+  },
+  "homepage": "https://github.com/osirisguitar/kodapor-trends#readme",
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "fb": "^2.0.0",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "request-promise": "^4.2.2"
+  }
+}
